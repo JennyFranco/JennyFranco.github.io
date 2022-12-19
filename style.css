@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+    
+     body{
+     margin: 30px;
+     background-image: url("/img/universo.jpg");
+     }
+    
+    header{
+     padding: 1rem;
+    }
+    main{
+     margin: auto;
+     text-align: center;
+     color: rgb(255, 255, 255);
+     font-family: 'Montserrat', sans-serif;
+    }
+    .title-section{
+     padding: 1rem;
+    }
+    #datepicker{
+     box-sizing: border-box;
+     width: 9rem;
+     padding: 00.2rem;
+     border-radius: 0.5rem;
+     border-color: rgb(0, 0, 0);
+     text-align: center;
+     font-family: 'Montserrat', sans-serif;
+     font-weight: bold;
+
+     
+    }
+    .image-div{
+     width: 80%;
+     margin: auto;
+    }
+    #image_of_the_day{
+     width: 80%;
+    }
+    .video-div{
+     width: 80%;
+     margin: auto;
+    }
+    #videoLink{
+     width: 100%;
+     height: 70vh
+    }
+    .description-div{
+     width: 80%;
+     margin:0.1rem auto 1rem;
+     border: solid 1px rgb(255, 255, 255);
+     padding: 0.5rem;
+     border-radius: 00.5rem;
+    }
+    #description{
+     line-height:1.82;
+    }
+  
